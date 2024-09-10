@@ -1,2 +1,14 @@
 #ignoring all credentials files
 **credentials*
+
+# Ignoriere macOS-Systemdateien
+.DS_Store
+
+# Ignoriere Log-Dateien
+*.log
+
+# Ignoriere temporäre Dateien
+*.tmp
+
+# Ignoriere Build-Ordner
+dist/
